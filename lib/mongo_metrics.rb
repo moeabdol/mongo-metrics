@@ -1,3 +1,4 @@
+require "jquery-rails"
 require "mongoid"
 require "mongo_metrics/engine"
 
